@@ -1,0 +1,3 @@
+E:\Programowanie\GitHub\Graphs\lab5\bin\Debug\lab5.exe.config
+E:\Programowanie\GitHub\Graphs\lab5\bin\Debug\Graphs.exe.config
+E:\Programowanie\GitHub\Graphs\Graphs\bin\Debug\Graphs.exe.config
